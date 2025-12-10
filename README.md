@@ -1,5 +1,8 @@
 # 🤖 API Discovery Chatbot
 
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://api-discovery-chatbot-5obhjpm58wcsgsjsqtvg6n.streamlit.app/)
+**🚀 [Live Demo](https://api-discovery-chatbot-5obhjpm58wcsgsjsqtvg6n.streamlit.app/)**
 An AI-powered chatbot built with Streamlit that helps developers discover and test 16,000+ free public APIs. Features semantic search, interactive API testing playground, and comprehensive API metadata.
 
 ## ✨ Features
